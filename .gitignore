@@ -1,0 +1,22 @@
+# colcon output, in case a workspace is built inside the repository
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor settings and indexes, specific to each machine
+.vscode/
+.idea/
+*.swp
+*~
+
+# TF tree written by ros2 run tf2_tools view_frames
+frames*.pdf
+frames*.gv
+
+# Operating system files
+.DS_Store
+Thumbs.db
