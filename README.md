@@ -8,7 +8,7 @@ BSc in Software Engineering at Addis Ababa University, academic year 2026.
 | BSc in Software Engineering | Introduction to Robotics and Intelligent Systems | Mohammed Sraj (MSc AI), part-time | Mohammed Sraj (MSc AI) |
 
 Each lab session has a folder of its own, with its ROS 2 packages, a README that walks through them,
-and an exercise.
+and an exercise. Start with the README of the lab folder for your session.
 
 | Lab | Topic |
 |-----|-------|

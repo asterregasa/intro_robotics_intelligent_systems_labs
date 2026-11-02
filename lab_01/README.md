@@ -57,7 +57,9 @@ The [diffdrive_bot README](diffdrive_bot/README.md) lists the packages to instal
 
 ## Getting started
 
-Clone the repository into the `src` folder of a ROS 2 workspace and build this lab's packages:
+First install the packages listed under "What you need" in the
+[diffdrive_bot README](diffdrive_bot/README.md#what-you-need). Then clone the repository into the
+`src` folder of a ROS 2 workspace and build this lab's packages:
 
 ```bash
 source /opt/ros/humble/setup.bash
@@ -72,4 +74,4 @@ Then continue with Step 2 of the [diffdrive_bot README](diffdrive_bot/README.md)
 
 ## License
 
-The packages are released under the MIT license.
+The packages are released under the MIT license; see [LICENSE](../LICENSE).
